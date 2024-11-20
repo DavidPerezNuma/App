@@ -18,6 +18,10 @@ This Java application allows the user to input a list of up to 1000 positive int
 
 ![Mental Model Diagram](./images/mental-mind.png)
 
+## UML Diagram
+
+![UML](./images/UML.png)
+
 1. **Input Data**: The application prompts the user to enter positive integers. The user can enter up to 1000 numbers, but must enter at least 100. Entering `0` ends the input process.
    
 2. **Validation**: If fewer than 100 numbers are entered, the application stops and displays an error message.
